@@ -1,1 +1,1 @@
-# Julia
+# JuliaWorkflow automation script
