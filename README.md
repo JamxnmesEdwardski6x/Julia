@@ -4,3 +4,4 @@ Frontend accessibility fix
 Data retention policy
 API latency optimization
 Cloud backup configuration
+Feature deprecation notice
