@@ -7,3 +7,4 @@ Cloud backup configuration
 Feature deprecation notice
 Database failover plan
 Security patch documentation
+Sprint review notes
